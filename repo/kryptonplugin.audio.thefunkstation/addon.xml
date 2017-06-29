@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="kryptonplugin.audio.thefunkstation"
+       name="TheFunkStation"
+       version="0.3.6"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+  	<provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>thefunkstation.com and/or http://listento.thefunkstation.com:8000/</summary>
+  	<description>http://thefunkstation.com</description>
+  	<disclaimer>By using this, you take reponsibility for anything that happens.  By using this, you also take resposibility for being older enough, and legal, to view any possible content.  Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<forum>http://forums.addons.center/board/10-highway99-addons/</forum>
+  	<website>http://thefunkstation.com</website>
+  	<email></email>
+  </extension>
+</addon>

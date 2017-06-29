@@ -1,0 +1,26 @@
+[U][B]RAM FM Radio[/B][/U]
+
+[B]v0.0.7 (2017-June 29th)[/B]
+- Slight check of "Pod Casts" section.  Seems to be OK for now.
+- Fixed "Studios" section.
+- Fixed "Live Radio: DJ Guide" section.
+- Fixed "DJs: Meet The Crew" section.
+- Adjustments for Slideshow, not sure how functional this still is though.
+- Hiding Song Requester for now until it can be fixed.
+- Fixed "Now Playing..." section.
+- PlayerCore method seems to no longer be available in Kodi.
+- Updated for Krypton version of Kodi.
+- Semi-Heavy Overhaul.
+
+[B]v0.0.6[/B]
+- Updated for Helix
+
+[B]v0.0.5[/B]
+- Frodo Link set to PA Player
+- Function to Play with PAPlayer
+
+[B]v0.0.4[/B]
+- Initial Version
+
+
+
